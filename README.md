@@ -41,4 +41,8 @@ RQ2 (ablation), RQ3 (representations), and RQ4 (intervention) data are fully inc
 
 RQ1 attack metrics (ASR/HS) are withheld due to privacy and ethical considerations. Pre-trained probe weights are not included because the files are too large (>1 GB); probes can be trained from scratch using `stage1_classification.py`.
 
+## Ethics Statement
+
+This research aims to understand and mitigate the safety vulnerabilities of LLMs under structured inputs, rather than to provide off-the-shelf attack tools. All experiments were conducted in controlled environments using public safety benchmarks (e.g., AdvBench) and did not affect real users or production systems. We intentionally withhold RQ1 attack metrics from this release to minimize potential misuse. We encourage the community to build upon this work for defensive research — including structured-input-aware safety auditing and more robust alignment strategies — and to conduct related experiments in compliance with legal, ethical, and institutional review requirements.
+
 
