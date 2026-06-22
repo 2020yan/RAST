@@ -1,0 +1,12 @@
+{
+  "response_level": {
+    "ASR": 96.0,
+    "HS": 4.68,
+    "Avg.Q": 12.16,
+    "Time/sample": 14.97,
+    "Search_time/sample": 13.83,
+    "Eval_time/sample": 1.14,
+    "Avg.Len": 140.86,
+    "n_samples": 50
+  }
+}

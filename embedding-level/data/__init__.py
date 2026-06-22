@@ -1,0 +1,1 @@
+from data.loader import load_instructions_by_size, load_instructions_by_flag

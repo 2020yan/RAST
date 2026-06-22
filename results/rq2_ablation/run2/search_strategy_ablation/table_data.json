@@ -1,0 +1,32 @@
+{
+  "random": {
+    "ASR": 96.0,
+    "HS": 4.46,
+    "Avg.Q": 2.54,
+    "Time/sample": 17.97,
+    "Search_time/sample": 6.75,
+    "Eval_time/sample": 11.22,
+    "Avg.Len": 29.55,
+    "n_samples": 50
+  },
+  "greedy": {
+    "ASR": 90.0,
+    "HS": 4.3,
+    "Avg.Q": 3.32,
+    "Time/sample": 22.55,
+    "Search_time/sample": 6.95,
+    "Eval_time/sample": 15.6,
+    "Avg.Len": 35.55,
+    "n_samples": 50
+  },
+  "sa": {
+    "ASR": 88.0,
+    "HS": 4.16,
+    "Avg.Q": 3.42,
+    "Time/sample": 22.4,
+    "Search_time/sample": 7.08,
+    "Eval_time/sample": 15.31,
+    "Avg.Len": 37.89,
+    "n_samples": 50
+  }
+}

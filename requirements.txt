@@ -1,0 +1,37 @@
+# 核心科学计算库
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 机器学习框架
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+
+# 深度学习和NLP
+transformers>=4.20.0
+datasets>=2.0.0
+
+# 机器学习工具
+scikit-learn>=1.0.0
+
+# 可视化库
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# 进度条和工具
+tqdm>=4.64.0
+
+# 自然语言处理
+nltk>=3.7
+
+# OpenAI API支持
+openai>=0.27.0
+
+# FastChat (对话模板)
+fschat>=0.2.0
+
+# Jupyter相关
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+

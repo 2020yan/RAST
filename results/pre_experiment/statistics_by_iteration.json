@@ -1,0 +1,1127 @@
+[
+  {
+    "iteration": 1,
+    "k_stats": {
+      "1": {
+        "asr": 28.0,
+        "avg_hs": 1.96,
+        "avg_queries": 1.0,
+        "avg_iter_time": 0.89,
+        "avg_eval_time": 5.96,
+        "avg_total_time": 6.85
+      },
+      "4": {
+        "asr": 82.0,
+        "avg_hs": 3.68,
+        "avg_queries": 2.36,
+        "avg_iter_time": 0.89,
+        "avg_eval_time": 13.79,
+        "avg_total_time": 14.68
+      },
+      "8": {
+        "asr": 94.0,
+        "avg_hs": 4.04,
+        "avg_queries": 2.92,
+        "avg_iter_time": 0.89,
+        "avg_eval_time": 16.84,
+        "avg_total_time": 17.73
+      },
+      "12": {
+        "asr": 94.0,
+        "avg_hs": 4.04,
+        "avg_queries": 3.16,
+        "avg_iter_time": 0.89,
+        "avg_eval_time": 17.77,
+        "avg_total_time": 18.66
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.12,
+        "avg_queries": 3.38,
+        "avg_iter_time": 0.89,
+        "avg_eval_time": 18.52,
+        "avg_total_time": 19.41
+      }
+    }
+  },
+  {
+    "iteration": 2,
+    "k_stats": {
+      "1": {
+        "asr": 40.0,
+        "avg_hs": 2.34,
+        "avg_queries": 1.0,
+        "avg_iter_time": 1.93,
+        "avg_eval_time": 5.83,
+        "avg_total_time": 7.76
+      },
+      "4": {
+        "asr": 82.0,
+        "avg_hs": 3.66,
+        "avg_queries": 2.3,
+        "avg_iter_time": 1.93,
+        "avg_eval_time": 13.54,
+        "avg_total_time": 15.47
+      },
+      "8": {
+        "asr": 90.0,
+        "avg_hs": 3.9,
+        "avg_queries": 2.82,
+        "avg_iter_time": 1.93,
+        "avg_eval_time": 16.54,
+        "avg_total_time": 18.47
+      },
+      "12": {
+        "asr": 94.0,
+        "avg_hs": 4.1,
+        "avg_queries": 3.18,
+        "avg_iter_time": 1.93,
+        "avg_eval_time": 18.58,
+        "avg_total_time": 20.51
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.12,
+        "avg_queries": 3.36,
+        "avg_iter_time": 1.93,
+        "avg_eval_time": 19.42,
+        "avg_total_time": 21.34
+      }
+    }
+  },
+  {
+    "iteration": 3,
+    "k_stats": {
+      "1": {
+        "asr": 42.0,
+        "avg_hs": 2.44,
+        "avg_queries": 1.0,
+        "avg_iter_time": 2.9,
+        "avg_eval_time": 5.58,
+        "avg_total_time": 8.48
+      },
+      "4": {
+        "asr": 86.0,
+        "avg_hs": 3.9,
+        "avg_queries": 2.14,
+        "avg_iter_time": 2.9,
+        "avg_eval_time": 12.15,
+        "avg_total_time": 15.05
+      },
+      "8": {
+        "asr": 94.0,
+        "avg_hs": 4.08,
+        "avg_queries": 2.56,
+        "avg_iter_time": 2.9,
+        "avg_eval_time": 14.53,
+        "avg_total_time": 17.43
+      },
+      "12": {
+        "asr": 94.0,
+        "avg_hs": 4.12,
+        "avg_queries": 2.8,
+        "avg_iter_time": 2.9,
+        "avg_eval_time": 15.85,
+        "avg_total_time": 18.75
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.14,
+        "avg_queries": 3.0,
+        "avg_iter_time": 2.9,
+        "avg_eval_time": 16.9,
+        "avg_total_time": 19.8
+      }
+    }
+  },
+  {
+    "iteration": 4,
+    "k_stats": {
+      "1": {
+        "asr": 58.0,
+        "avg_hs": 3.0,
+        "avg_queries": 1.0,
+        "avg_iter_time": 3.86,
+        "avg_eval_time": 5.55,
+        "avg_total_time": 9.41
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.0,
+        "avg_queries": 1.88,
+        "avg_iter_time": 3.86,
+        "avg_eval_time": 10.33,
+        "avg_total_time": 14.18
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.22,
+        "avg_queries": 2.28,
+        "avg_iter_time": 3.86,
+        "avg_eval_time": 12.59,
+        "avg_total_time": 16.44
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.22,
+        "avg_queries": 2.44,
+        "avg_iter_time": 3.86,
+        "avg_eval_time": 13.48,
+        "avg_total_time": 17.34
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.22,
+        "avg_queries": 2.6,
+        "avg_iter_time": 3.86,
+        "avg_eval_time": 14.36,
+        "avg_total_time": 18.21
+      }
+    }
+  },
+  {
+    "iteration": 5,
+    "k_stats": {
+      "1": {
+        "asr": 66.0,
+        "avg_hs": 3.32,
+        "avg_queries": 1.0,
+        "avg_iter_time": 4.85,
+        "avg_eval_time": 5.38,
+        "avg_total_time": 10.23
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.08,
+        "avg_queries": 1.66,
+        "avg_iter_time": 4.85,
+        "avg_eval_time": 8.92,
+        "avg_total_time": 13.77
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.32,
+        "avg_queries": 1.98,
+        "avg_iter_time": 4.85,
+        "avg_eval_time": 10.71,
+        "avg_total_time": 15.57
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.32,
+        "avg_queries": 2.14,
+        "avg_iter_time": 4.85,
+        "avg_eval_time": 11.58,
+        "avg_total_time": 16.43
+      },
+      "16": {
+        "asr": 98.0,
+        "avg_hs": 4.38,
+        "avg_queries": 2.3,
+        "avg_iter_time": 4.85,
+        "avg_eval_time": 12.49,
+        "avg_total_time": 17.34
+      }
+    }
+  },
+  {
+    "iteration": 6,
+    "k_stats": {
+      "1": {
+        "asr": 64.0,
+        "avg_hs": 3.28,
+        "avg_queries": 1.0,
+        "avg_iter_time": 5.81,
+        "avg_eval_time": 5.61,
+        "avg_total_time": 11.42
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.14,
+        "avg_queries": 1.74,
+        "avg_iter_time": 5.81,
+        "avg_eval_time": 9.53,
+        "avg_total_time": 15.34
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.38,
+        "avg_queries": 2.14,
+        "avg_iter_time": 5.81,
+        "avg_eval_time": 11.8,
+        "avg_total_time": 17.61
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.38,
+        "avg_queries": 2.3,
+        "avg_iter_time": 5.81,
+        "avg_eval_time": 12.7,
+        "avg_total_time": 18.51
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.38,
+        "avg_queries": 2.46,
+        "avg_iter_time": 5.81,
+        "avg_eval_time": 13.54,
+        "avg_total_time": 19.35
+      }
+    }
+  },
+  {
+    "iteration": 7,
+    "k_stats": {
+      "1": {
+        "asr": 66.0,
+        "avg_hs": 3.34,
+        "avg_queries": 1.0,
+        "avg_iter_time": 6.76,
+        "avg_eval_time": 5.53,
+        "avg_total_time": 12.3
+      },
+      "4": {
+        "asr": 86.0,
+        "avg_hs": 4.08,
+        "avg_queries": 1.7,
+        "avg_iter_time": 6.76,
+        "avg_eval_time": 9.2,
+        "avg_total_time": 15.96
+      },
+      "8": {
+        "asr": 92.0,
+        "avg_hs": 4.32,
+        "avg_queries": 2.12,
+        "avg_iter_time": 6.76,
+        "avg_eval_time": 11.5,
+        "avg_total_time": 18.26
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.44,
+        "avg_queries": 2.32,
+        "avg_iter_time": 6.76,
+        "avg_eval_time": 12.62,
+        "avg_total_time": 19.38
+      },
+      "16": {
+        "asr": 96.0,
+        "avg_hs": 4.44,
+        "avg_queries": 2.48,
+        "avg_iter_time": 6.76,
+        "avg_eval_time": 13.52,
+        "avg_total_time": 20.29
+      }
+    }
+  },
+  {
+    "iteration": 8,
+    "k_stats": {
+      "1": {
+        "asr": 70.0,
+        "avg_hs": 3.48,
+        "avg_queries": 1.0,
+        "avg_iter_time": 7.7,
+        "avg_eval_time": 5.39,
+        "avg_total_time": 13.08
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.12,
+        "avg_queries": 1.68,
+        "avg_iter_time": 7.7,
+        "avg_eval_time": 9.09,
+        "avg_total_time": 16.78
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.44,
+        "avg_queries": 2.0,
+        "avg_iter_time": 7.7,
+        "avg_eval_time": 10.87,
+        "avg_total_time": 18.57
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.58,
+        "avg_queries": 2.08,
+        "avg_iter_time": 7.7,
+        "avg_eval_time": 11.26,
+        "avg_total_time": 18.96
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.58,
+        "avg_queries": 2.08,
+        "avg_iter_time": 7.7,
+        "avg_eval_time": 11.26,
+        "avg_total_time": 18.96
+      }
+    }
+  },
+  {
+    "iteration": 9,
+    "k_stats": {
+      "1": {
+        "asr": 68.0,
+        "avg_hs": 3.44,
+        "avg_queries": 1.0,
+        "avg_iter_time": 8.63,
+        "avg_eval_time": 5.19,
+        "avg_total_time": 13.82
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.2,
+        "avg_queries": 1.62,
+        "avg_iter_time": 8.63,
+        "avg_eval_time": 8.42,
+        "avg_total_time": 17.05
+      },
+      "8": {
+        "asr": 98.0,
+        "avg_hs": 4.48,
+        "avg_queries": 1.9,
+        "avg_iter_time": 8.63,
+        "avg_eval_time": 10.03,
+        "avg_total_time": 18.66
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.92,
+        "avg_iter_time": 8.63,
+        "avg_eval_time": 10.16,
+        "avg_total_time": 18.79
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.92,
+        "avg_iter_time": 8.63,
+        "avg_eval_time": 10.16,
+        "avg_total_time": 18.79
+      }
+    }
+  },
+  {
+    "iteration": 10,
+    "k_stats": {
+      "1": {
+        "asr": 70.0,
+        "avg_hs": 3.56,
+        "avg_queries": 1.0,
+        "avg_iter_time": 9.56,
+        "avg_eval_time": 5.31,
+        "avg_total_time": 14.87
+      },
+      "4": {
+        "asr": 92.0,
+        "avg_hs": 4.3,
+        "avg_queries": 1.56,
+        "avg_iter_time": 9.56,
+        "avg_eval_time": 8.18,
+        "avg_total_time": 17.74
+      },
+      "8": {
+        "asr": 94.0,
+        "avg_hs": 4.38,
+        "avg_queries": 1.82,
+        "avg_iter_time": 9.56,
+        "avg_eval_time": 9.66,
+        "avg_total_time": 19.22
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.6,
+        "avg_queries": 1.92,
+        "avg_iter_time": 9.56,
+        "avg_eval_time": 10.26,
+        "avg_total_time": 19.81
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.6,
+        "avg_queries": 1.92,
+        "avg_iter_time": 9.56,
+        "avg_eval_time": 10.26,
+        "avg_total_time": 19.81
+      }
+    }
+  },
+  {
+    "iteration": 11,
+    "k_stats": {
+      "1": {
+        "asr": 68.0,
+        "avg_hs": 3.48,
+        "avg_queries": 1.0,
+        "avg_iter_time": 10.49,
+        "avg_eval_time": 5.36,
+        "avg_total_time": 15.85
+      },
+      "4": {
+        "asr": 92.0,
+        "avg_hs": 4.3,
+        "avg_queries": 1.62,
+        "avg_iter_time": 10.49,
+        "avg_eval_time": 8.45,
+        "avg_total_time": 18.94
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.46,
+        "avg_queries": 1.82,
+        "avg_iter_time": 10.49,
+        "avg_eval_time": 9.56,
+        "avg_total_time": 20.05
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.54,
+        "avg_queries": 1.94,
+        "avg_iter_time": 10.49,
+        "avg_eval_time": 10.27,
+        "avg_total_time": 20.76
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.62,
+        "avg_queries": 1.98,
+        "avg_iter_time": 10.49,
+        "avg_eval_time": 10.49,
+        "avg_total_time": 20.98
+      }
+    }
+  },
+  {
+    "iteration": 12,
+    "k_stats": {
+      "1": {
+        "asr": 68.0,
+        "avg_hs": 3.52,
+        "avg_queries": 1.0,
+        "avg_iter_time": 11.41,
+        "avg_eval_time": 5.3,
+        "avg_total_time": 16.72
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.24,
+        "avg_queries": 1.66,
+        "avg_iter_time": 11.41,
+        "avg_eval_time": 8.57,
+        "avg_total_time": 19.98
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.46,
+        "avg_queries": 1.96,
+        "avg_iter_time": 11.41,
+        "avg_eval_time": 10.26,
+        "avg_total_time": 21.67
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.54,
+        "avg_queries": 2.12,
+        "avg_iter_time": 11.41,
+        "avg_eval_time": 11.12,
+        "avg_total_time": 22.54
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.62,
+        "avg_queries": 2.18,
+        "avg_iter_time": 11.41,
+        "avg_eval_time": 11.45,
+        "avg_total_time": 22.87
+      }
+    }
+  },
+  {
+    "iteration": 13,
+    "k_stats": {
+      "1": {
+        "asr": 74.0,
+        "avg_hs": 3.68,
+        "avg_queries": 1.0,
+        "avg_iter_time": 12.33,
+        "avg_eval_time": 5.21,
+        "avg_total_time": 17.54
+      },
+      "4": {
+        "asr": 94.0,
+        "avg_hs": 4.36,
+        "avg_queries": 1.52,
+        "avg_iter_time": 12.33,
+        "avg_eval_time": 7.82,
+        "avg_total_time": 20.15
+      },
+      "8": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.64,
+        "avg_iter_time": 12.33,
+        "avg_eval_time": 8.49,
+        "avg_total_time": 20.82
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.64,
+        "avg_iter_time": 12.33,
+        "avg_eval_time": 8.49,
+        "avg_total_time": 20.82
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.64,
+        "avg_iter_time": 12.33,
+        "avg_eval_time": 8.49,
+        "avg_total_time": 20.82
+      }
+    }
+  },
+  {
+    "iteration": 14,
+    "k_stats": {
+      "1": {
+        "asr": 74.0,
+        "avg_hs": 3.66,
+        "avg_queries": 1.0,
+        "avg_iter_time": 13.23,
+        "avg_eval_time": 5.25,
+        "avg_total_time": 18.48
+      },
+      "4": {
+        "asr": 94.0,
+        "avg_hs": 4.36,
+        "avg_queries": 1.56,
+        "avg_iter_time": 13.23,
+        "avg_eval_time": 8.17,
+        "avg_total_time": 21.4
+      },
+      "8": {
+        "asr": 98.0,
+        "avg_hs": 4.5,
+        "avg_queries": 1.74,
+        "avg_iter_time": 13.23,
+        "avg_eval_time": 8.99,
+        "avg_total_time": 22.23
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.76,
+        "avg_iter_time": 13.23,
+        "avg_eval_time": 9.1,
+        "avg_total_time": 22.33
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.76,
+        "avg_iter_time": 13.23,
+        "avg_eval_time": 9.1,
+        "avg_total_time": 22.33
+      }
+    }
+  },
+  {
+    "iteration": 15,
+    "k_stats": {
+      "1": {
+        "asr": 72.0,
+        "avg_hs": 3.62,
+        "avg_queries": 1.0,
+        "avg_iter_time": 14.14,
+        "avg_eval_time": 5.33,
+        "avg_total_time": 19.47
+      },
+      "4": {
+        "asr": 92.0,
+        "avg_hs": 4.32,
+        "avg_queries": 1.56,
+        "avg_iter_time": 14.14,
+        "avg_eval_time": 8.3,
+        "avg_total_time": 22.44
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.46,
+        "avg_queries": 1.76,
+        "avg_iter_time": 14.14,
+        "avg_eval_time": 9.28,
+        "avg_total_time": 23.42
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.6,
+        "avg_queries": 1.86,
+        "avg_iter_time": 14.14,
+        "avg_eval_time": 9.78,
+        "avg_total_time": 23.92
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.6,
+        "avg_queries": 1.86,
+        "avg_iter_time": 14.14,
+        "avg_eval_time": 9.78,
+        "avg_total_time": 23.92
+      }
+    }
+  },
+  {
+    "iteration": 16,
+    "k_stats": {
+      "1": {
+        "asr": 72.0,
+        "avg_hs": 3.62,
+        "avg_queries": 1.0,
+        "avg_iter_time": 15.06,
+        "avg_eval_time": 5.36,
+        "avg_total_time": 20.42
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.28,
+        "avg_queries": 1.58,
+        "avg_iter_time": 15.06,
+        "avg_eval_time": 8.29,
+        "avg_total_time": 23.35
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.48,
+        "avg_queries": 1.84,
+        "avg_iter_time": 15.06,
+        "avg_eval_time": 9.63,
+        "avg_total_time": 24.69
+      },
+      "12": {
+        "asr": 100.0,
+        "avg_hs": 4.62,
+        "avg_queries": 1.98,
+        "avg_iter_time": 15.06,
+        "avg_eval_time": 10.29,
+        "avg_total_time": 25.35
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.62,
+        "avg_queries": 1.98,
+        "avg_iter_time": 15.06,
+        "avg_eval_time": 10.29,
+        "avg_total_time": 25.35
+      }
+    }
+  },
+  {
+    "iteration": 17,
+    "k_stats": {
+      "1": {
+        "asr": 70.0,
+        "avg_hs": 3.56,
+        "avg_queries": 1.0,
+        "avg_iter_time": 15.96,
+        "avg_eval_time": 5.34,
+        "avg_total_time": 21.29
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.3,
+        "avg_queries": 1.6,
+        "avg_iter_time": 15.96,
+        "avg_eval_time": 8.42,
+        "avg_total_time": 24.38
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.5,
+        "avg_queries": 1.82,
+        "avg_iter_time": 15.96,
+        "avg_eval_time": 9.52,
+        "avg_total_time": 25.47
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.58,
+        "avg_queries": 1.98,
+        "avg_iter_time": 15.96,
+        "avg_eval_time": 10.28,
+        "avg_total_time": 26.23
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.64,
+        "avg_queries": 2.0,
+        "avg_iter_time": 15.96,
+        "avg_eval_time": 10.38,
+        "avg_total_time": 26.34
+      }
+    }
+  },
+  {
+    "iteration": 18,
+    "k_stats": {
+      "1": {
+        "asr": 70.0,
+        "avg_hs": 3.62,
+        "avg_queries": 1.0,
+        "avg_iter_time": 16.85,
+        "avg_eval_time": 5.29,
+        "avg_total_time": 22.14
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.36,
+        "avg_queries": 1.64,
+        "avg_iter_time": 16.85,
+        "avg_eval_time": 8.64,
+        "avg_total_time": 25.48
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.56,
+        "avg_queries": 1.92,
+        "avg_iter_time": 16.85,
+        "avg_eval_time": 9.9,
+        "avg_total_time": 26.75
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.56,
+        "avg_queries": 2.08,
+        "avg_iter_time": 16.85,
+        "avg_eval_time": 10.65,
+        "avg_total_time": 27.5
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.7,
+        "avg_queries": 2.16,
+        "avg_iter_time": 16.85,
+        "avg_eval_time": 11.04,
+        "avg_total_time": 27.89
+      }
+    }
+  },
+  {
+    "iteration": 19,
+    "k_stats": {
+      "1": {
+        "asr": 68.0,
+        "avg_hs": 3.54,
+        "avg_queries": 1.0,
+        "avg_iter_time": 17.75,
+        "avg_eval_time": 5.2,
+        "avg_total_time": 22.96
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.36,
+        "avg_queries": 1.64,
+        "avg_iter_time": 17.75,
+        "avg_eval_time": 8.62,
+        "avg_total_time": 26.38
+      },
+      "8": {
+        "asr": 94.0,
+        "avg_hs": 4.48,
+        "avg_queries": 2.0,
+        "avg_iter_time": 17.75,
+        "avg_eval_time": 10.41,
+        "avg_total_time": 28.17
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.56,
+        "avg_queries": 2.18,
+        "avg_iter_time": 17.75,
+        "avg_eval_time": 11.27,
+        "avg_total_time": 29.02
+      },
+      "16": {
+        "asr": 98.0,
+        "avg_hs": 4.64,
+        "avg_queries": 2.28,
+        "avg_iter_time": 17.75,
+        "avg_eval_time": 11.73,
+        "avg_total_time": 29.48
+      }
+    }
+  },
+  {
+    "iteration": 20,
+    "k_stats": {
+      "1": {
+        "asr": 66.0,
+        "avg_hs": 3.44,
+        "avg_queries": 1.0,
+        "avg_iter_time": 18.67,
+        "avg_eval_time": 5.19,
+        "avg_total_time": 23.86
+      },
+      "4": {
+        "asr": 86.0,
+        "avg_hs": 4.2,
+        "avg_queries": 1.66,
+        "avg_iter_time": 18.67,
+        "avg_eval_time": 8.76,
+        "avg_total_time": 27.43
+      },
+      "8": {
+        "asr": 96.0,
+        "avg_hs": 4.54,
+        "avg_queries": 2.1,
+        "avg_iter_time": 18.67,
+        "avg_eval_time": 10.97,
+        "avg_total_time": 29.64
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.62,
+        "avg_queries": 2.2,
+        "avg_iter_time": 18.67,
+        "avg_eval_time": 11.53,
+        "avg_total_time": 30.19
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.7,
+        "avg_queries": 2.22,
+        "avg_iter_time": 18.67,
+        "avg_eval_time": 11.66,
+        "avg_total_time": 30.33
+      }
+    }
+  },
+  {
+    "iteration": 21,
+    "k_stats": {
+      "1": {
+        "asr": 62.0,
+        "avg_hs": 3.3,
+        "avg_queries": 1.0,
+        "avg_iter_time": 19.57,
+        "avg_eval_time": 5.18,
+        "avg_total_time": 24.74
+      },
+      "4": {
+        "asr": 86.0,
+        "avg_hs": 4.18,
+        "avg_queries": 1.7,
+        "avg_iter_time": 19.57,
+        "avg_eval_time": 8.95,
+        "avg_total_time": 28.52
+      },
+      "8": {
+        "asr": 92.0,
+        "avg_hs": 4.4,
+        "avg_queries": 2.16,
+        "avg_iter_time": 19.57,
+        "avg_eval_time": 11.14,
+        "avg_total_time": 30.71
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.6,
+        "avg_queries": 2.3,
+        "avg_iter_time": 19.57,
+        "avg_eval_time": 11.89,
+        "avg_total_time": 31.45
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.68,
+        "avg_queries": 2.34,
+        "avg_iter_time": 19.57,
+        "avg_eval_time": 12.17,
+        "avg_total_time": 31.73
+      }
+    }
+  },
+  {
+    "iteration": 22,
+    "k_stats": {
+      "1": {
+        "asr": 62.0,
+        "avg_hs": 3.3,
+        "avg_queries": 1.0,
+        "avg_iter_time": 20.5,
+        "avg_eval_time": 5.22,
+        "avg_total_time": 25.71
+      },
+      "4": {
+        "asr": 86.0,
+        "avg_hs": 4.18,
+        "avg_queries": 1.76,
+        "avg_iter_time": 20.5,
+        "avg_eval_time": 9.28,
+        "avg_total_time": 29.78
+      },
+      "8": {
+        "asr": 90.0,
+        "avg_hs": 4.32,
+        "avg_queries": 2.22,
+        "avg_iter_time": 20.5,
+        "avg_eval_time": 11.6,
+        "avg_total_time": 32.09
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.6,
+        "avg_queries": 2.4,
+        "avg_iter_time": 20.5,
+        "avg_eval_time": 12.52,
+        "avg_total_time": 33.02
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.68,
+        "avg_queries": 2.44,
+        "avg_iter_time": 20.5,
+        "avg_eval_time": 12.8,
+        "avg_total_time": 33.3
+      }
+    }
+  },
+  {
+    "iteration": 23,
+    "k_stats": {
+      "1": {
+        "asr": 66.0,
+        "avg_hs": 3.44,
+        "avg_queries": 1.0,
+        "avg_iter_time": 21.42,
+        "avg_eval_time": 5.28,
+        "avg_total_time": 26.7
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.24,
+        "avg_queries": 1.72,
+        "avg_iter_time": 21.42,
+        "avg_eval_time": 8.99,
+        "avg_total_time": 30.41
+      },
+      "8": {
+        "asr": 90.0,
+        "avg_hs": 4.3,
+        "avg_queries": 2.16,
+        "avg_iter_time": 21.42,
+        "avg_eval_time": 11.27,
+        "avg_total_time": 32.69
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.6,
+        "avg_queries": 2.38,
+        "avg_iter_time": 21.42,
+        "avg_eval_time": 12.43,
+        "avg_total_time": 33.85
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.68,
+        "avg_queries": 2.42,
+        "avg_iter_time": 21.42,
+        "avg_eval_time": 12.71,
+        "avg_total_time": 34.13
+      }
+    }
+  },
+  {
+    "iteration": 24,
+    "k_stats": {
+      "1": {
+        "asr": 62.0,
+        "avg_hs": 3.34,
+        "avg_queries": 1.0,
+        "avg_iter_time": 22.33,
+        "avg_eval_time": 5.1,
+        "avg_total_time": 27.43
+      },
+      "4": {
+        "asr": 90.0,
+        "avg_hs": 4.36,
+        "avg_queries": 1.78,
+        "avg_iter_time": 22.33,
+        "avg_eval_time": 9.19,
+        "avg_total_time": 31.52
+      },
+      "8": {
+        "asr": 92.0,
+        "avg_hs": 4.42,
+        "avg_queries": 2.14,
+        "avg_iter_time": 22.33,
+        "avg_eval_time": 10.95,
+        "avg_total_time": 33.28
+      },
+      "12": {
+        "asr": 98.0,
+        "avg_hs": 4.64,
+        "avg_queries": 2.38,
+        "avg_iter_time": 22.33,
+        "avg_eval_time": 12.14,
+        "avg_total_time": 34.48
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.72,
+        "avg_queries": 2.42,
+        "avg_iter_time": 22.33,
+        "avg_eval_time": 12.42,
+        "avg_total_time": 34.76
+      }
+    }
+  },
+  {
+    "iteration": 25,
+    "k_stats": {
+      "1": {
+        "asr": 62.0,
+        "avg_hs": 3.34,
+        "avg_queries": 1.0,
+        "avg_iter_time": 23.25,
+        "avg_eval_time": 5.08,
+        "avg_total_time": 28.33
+      },
+      "4": {
+        "asr": 88.0,
+        "avg_hs": 4.28,
+        "avg_queries": 1.84,
+        "avg_iter_time": 23.25,
+        "avg_eval_time": 9.45,
+        "avg_total_time": 32.69
+      },
+      "8": {
+        "asr": 92.0,
+        "avg_hs": 4.42,
+        "avg_queries": 2.22,
+        "avg_iter_time": 23.25,
+        "avg_eval_time": 11.3,
+        "avg_total_time": 34.55
+      },
+      "12": {
+        "asr": 96.0,
+        "avg_hs": 4.56,
+        "avg_queries": 2.46,
+        "avg_iter_time": 23.25,
+        "avg_eval_time": 12.53,
+        "avg_total_time": 35.77
+      },
+      "16": {
+        "asr": 100.0,
+        "avg_hs": 4.72,
+        "avg_queries": 2.52,
+        "avg_iter_time": 23.25,
+        "avg_eval_time": 12.92,
+        "avg_total_time": 36.17
+      }
+    }
+  }
+]
