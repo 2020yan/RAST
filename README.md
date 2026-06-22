@@ -37,7 +37,7 @@ python scripts/run_rq3_rq4.py         # RQ3 & RQ4
 
 ## Data Release
 
-RQ2 (ablation) and RQ3 (representations) data are fully included. RQ4 intervention data is partially released.
+RQ2 (ablation), RQ3 (representations), and RQ4 (intervention) data are fully included.
 
 RQ1 attack metrics (ASR/HS) are withheld due to privacy and ethical considerations. Pre-trained probe weights are not included because the files are too large (>1 GB); probes can be trained from scratch using `stage1_classification.py`.
 

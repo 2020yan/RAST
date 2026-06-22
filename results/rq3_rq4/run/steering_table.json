@@ -1,8 +1,26 @@
 [
   {
+    "Setting": "beta=0.1",
+    "ASR(%)": 84.0,
+    "RR(%)": 16.0,
+    "Total": 50
+  },
+  {
+    "Setting": "beta=0.2",
+    "ASR(%)": 40.0,
+    "RR(%)": 58.0,
+    "Total": 50
+  },
+  {
     "Setting": "beta=0.5",
     "ASR(%)": 0.0,
     "RR(%)": 100.0,
+    "Total": 50
+  },
+  {
+    "Setting": "random_beta=1",
+    "ASR(%)": 72.0,
+    "RR(%)": 28.0,
     "Total": 50
   }
 ]
