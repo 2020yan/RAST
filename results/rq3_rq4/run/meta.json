@@ -1,0 +1,67 @@
+{
+  "unsafe_file": "/home/ymy/pyprogram/AI-Safety_SCAV-main/data/unsafe_prompts.json",
+  "safe_file": "/home/ymy/pyprogram/AI-Safety_SCAV-main/data/safe_prompts.json",
+  "probe_npz": "/home/ymy/pyprogram/AI-Safety_SCAV-main/embedding-level/stage1_output/probe_results.npz",
+  "probe_stats": "/home/ymy/pyprogram/AI-Safety_SCAV-main/embedding-level/stage1_output/layerwise_probe_stats.json",
+  "acc_threshold": 0.95,
+  "min_layer": null,
+  "max_layer": null,
+  "critical_layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "n_samples": 50,
+  "seed": 42,
+  "device": "cuda",
+  "settings": [
+    {
+      "name": "beta=0.1",
+      "beta": 0.1,
+      "is_random": false
+    },
+    {
+      "name": "beta=0.2",
+      "beta": 0.2,
+      "is_random": false
+    },
+    {
+      "name": "beta=0.5",
+      "beta": 0.5,
+      "is_random": false
+    },
+    {
+      "name": "random_beta=1",
+      "beta": 1.0,
+      "is_random": true
+    }
+  ]
+}
